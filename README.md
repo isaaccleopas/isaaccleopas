@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @isaaccleopas
 - 👀 I’m interested in Programmong
-- 🌱 I’m currently learning Web programming using Python and JavaScript
-- 💞️ I’m looking to collaborate on a food web app
+- 🌱 I’m currently an ALX SE student undergoing a 12 months intensive training.
+- 💞️ I’m looking to collaborate on any project in using python, R, SQL, and C programming languages.
 - 📫 How to reach me isaaccleopas@gmail.com
 
 <!---
