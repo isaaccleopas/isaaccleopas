@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @isaaccleopas
 - 👀 I’m interested in Programmong
-- 🌱 I’m currently an ALX SE student undergoing a 12 months intensive training.
-- 💞️ I’m looking to collaborate on any project in using python, R, SQL, and C programming languages.
+- 🌱 I’m currently currently pursuing projects as a freelancer.
+- 💞️ I’m looking to collaborate on any project regardless of the language.
 - 📫 How to reach me isaaccleopas@gmail.com
 
 <!---
